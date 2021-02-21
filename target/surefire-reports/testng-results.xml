@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="testng-maven" duration-ms="28" started-at="2021-02-12T11:13:21 IST" finished-at="2021-02-12T11:13:21 IST">
+    <groups>
+    </groups>
+    <test name="annotations" duration-ms="28" started-at="2021-02-12T11:13:21 IST" finished-at="2021-02-12T11:13:21 IST">
+    </test> <!-- annotations -->
+  </suite> <!-- testng-maven -->
+</testng-results>

@@ -1,0 +1,28 @@
+<suite name="testng-maven">
+	<test name="test1">
+		<classes>
+			<class name="com.testng.maven.TestClass1" />
+			<class name="com.testng.maven.TestClass2" />
+		</classes>
+	</test>
+	<test name="test2">
+		<classes>
+			<class name="com.testng.maven.TestClass2" />
+		</classes>
+	</test>
+	<test name="test3">
+		<classes>
+			<class name="com.testng.maven.TestClass3" />
+		</classes>
+	</test>
+	<test name="restassured">
+		<classes>
+			<class name="com.testng.restassured.DemoRestAssured"></class>
+		</classes>
+	</test>
+		<test name="annotations">
+		<classes>
+			<class name="com.testng.maven.TestClass"></class>
+		</classes>
+	</test>
+</suite>
